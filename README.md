@@ -28,8 +28,9 @@ Los datos se almacenan en un archivo JSON para mantener persistencia.
 ## Estructura del proyecto
 
 ```
-pruebas/
- ├── prueba.py
+Documento/
+ ├── ProgramaRegistrosParteDos.py
+ ├── ParseoDeJSON.py
  ├── users.json
  ├── index.html
  ├── app.js
@@ -54,7 +55,7 @@ pip install flask flask-cors
 ### 1. Ejecutar backend
 
 ```
-python prueba.py
+ ProgramaRegistrosParteDos.py
 ```
 
 ---
